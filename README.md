@@ -5,11 +5,14 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 代码clone到本地后进入根目录运行下面命令
 npm install
 
-# serve with hot reload at localhost:8080
+# npm install 命令结束后 运行下面命令
 npm run dev
+
+# npm run dev 命令运行结束后 打开浏览器输入下面地址
+http://localhost:8080
 
 # build for production with minification
 npm run build
